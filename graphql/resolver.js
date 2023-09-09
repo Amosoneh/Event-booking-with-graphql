@@ -7,5 +7,4 @@ const rootResolver = {
   ...bookingResolver,
   ...eventResolver
 }
-
 module.exports = rootResolver

@@ -29,7 +29,6 @@ module.exports = {
       throw error;
     }
   },
-
   users: async () => {
     try {
       const users = await User.find();
