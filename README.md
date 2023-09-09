@@ -1,1 +1,0 @@
-# Event-booking-with-graphql
